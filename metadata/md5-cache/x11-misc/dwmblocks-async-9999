@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install postinst prepare unpack
+DESCRIPTION=An asynchronously sinking fork of dwmblocks.
+EAPI=8
+HOMEPAGE=https://github.com/UtkarshVerma/dwmblocks-async
+INHERIT=git-r3 savedconfig
+IUSE=savedconfig savedconfig
+KEYWORDS=amd64
+LICENSE=GPL-2
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676	portability	964493f201f557a5c6baccacccf45ee2	savedconfig	8b5f9d995a970e49cd427c55d5840285
+_md5_=53955e7b19a182b2c7a48021310222df
